@@ -1,0 +1,56 @@
+[
+  {
+    "id": 1,
+    "name": "1 kg. de Banana",
+    "price": 1.39,
+    "imgUrl": "/imgs/fruits/bananas.jpg"
+  },
+  {
+    "id": 2,
+    "name": "1 kg. de Fresa",
+    "price": 7.98,
+    "imgUrl": "/imgs/fruits/strawberries.jpeg"
+  },
+  {
+    "id": 3,
+    "name": "1 kg. de Limón",
+    "price": 1.95,
+    "imgUrl": "/imgs/fruits/lemons.jpeg"
+  },
+  {
+    "id": 4,
+    "name": "1 kg. de Uva",
+    "price": 5.28,
+    "imgUrl": "/imgs/fruits/grapes.jpeg"
+  },
+  {
+    "id": 5,
+    "name": "1 kg. de Naranja",
+    "price": 2.09,
+    "imgUrl": "/imgs/fruits/oranges.jpeg"
+  },
+  {
+    "id": 6,
+    "name": "1 kg. de Piña",
+    "price": 2.5,
+    "imgUrl": "/imgs/fruits/pinneaples.jpeg"
+  },
+  {
+    "id": 7,
+    "name": "1 kg. de Sandía",
+    "price": 2.13,
+    "imgUrl": "/imgs/fruits/watermelon.jpeg"
+  },
+  {
+    "id": 8,
+    "name": "1 kg. de Manzana",
+    "price": 1.79,
+    "imgUrl": "/imgs/fruits/apples.jpeg"
+  },
+  {
+    "id": 9,
+    "name": "1 kg. de Kiwi",
+    "price": 2.35,
+    "imgUrl": "/imgs/fruits/kiwis.jpeg"
+  }
+]
